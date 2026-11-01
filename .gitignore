@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Gerados / locais
+.kotlin/
+app/build/
+keystore.properties
+*.jks
+*.keystore
